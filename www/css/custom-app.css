@@ -1,0 +1,25 @@
+.pane{
+background:url('http://cdn1.theodysseyonline.com/files/2016/01/12/635882088375874915442838070_de.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+}
+
+.img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.f{
+  background: url("http://images.forwallpaper.com/files/images/c/c54e/c54e4177/422615/world-maps.jpg") no-repeat center center fixed;
+
+}
+
+.app-logo{ max-width:235px; margin:auto; background-repeat:no-repeat;background-position:center;}
+.top-content { padding-top: 10vh;  text-align: center;   }
+.loginButton{ padding-bottom:0px;}
+.remvoeBP{ padding-bottom:0px;}
+.removePM{ margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; }
+
+#menuLinks .list .item{ border-color:#479CF7;}
+#menuLinks .list .item a{ background:#387EF5; color:#fff;}
